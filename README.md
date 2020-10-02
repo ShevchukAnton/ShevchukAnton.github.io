@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Skills and Knowledges:
+- Intermediate level of spoken and written English
+- Good understanding of QA essentials and theory. Knowledge of issue-tracking systems (Youtrack, Jira, Helix ALM, codebeamer)
+- Programming languages: Groovy, Java, Bash
+- QA automation experience (Selenium, Spock, Geb, Junit)
+- Expirience in load testing (Jmeter/Blazemeter)
+- Experience with CI (TeamCity, Jenkins)
+- Experience with shell scripting
+- Experience in VCS (GitHub, Bitbucket)
+- Experience in leading small team
 
-You can use the [editor on GitHub](https://github.com/ShevchukAnton/ShevchukAnton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Working Experience:
+### Smart Academy
+  Date: Arpil 2020 - nowadays
+  
+  Tech stack: Jmeter, Blazemeter, Groovy, Bash, Ansible, Docker, Terraform
+  
+  Description: under NDA
+  
+  Role: Develop, maintain, execute load tests. Setup and support environment. Analize test results and provide reliable feedback, report bugs
+  
+----
 
-### Markdown
+### Globallogic
+  Date: Feb 2019 - March 2020
+  
+  Tech stack: Groovy, Spock, Geb, Docker, Bash
+  
+  Description: A medical system that collects user data from implants and helps the doctor to make a decision about the following cure
+  
+  Role: Develop, support and create automation tests, maintenance of Nexus artefactory and local test environment. Report bugs
+  
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Date: From Feb 2018 - Feb 2019
+  
+  Technologies stack: C#, XUnit, Selenium, MsSQL
+  
+  Description: Medical documentation system
+  
+  Role: Develop, support and improve automation tests. Generate appropriate reports. Report bugs
 
-```markdown
-Syntax highlighted code block
+----
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShevchukAnton/ShevchukAnton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### MWDN ltd.
+  Date: Jan 2015 - Jan 2018
+  
+  Tech stack: SQL, Java, Bash, Ionic
+  
+  Description: Better Chains is a cloud based integrated restaurant management system
+  
+  Role: Support existing API autotests. Performing quality assurance and testing processes. Requirements analysis, writing test documentation, test execution using various types and test techniques, bug reporting, maintenance and testing the project after basic release to the customer.
