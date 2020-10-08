@@ -2,19 +2,19 @@
 - Intermediate level of spoken and written English
 - Good understanding of QA essentials and theory. Knowledge of issue-tracking systems (Youtrack, Jira, Helix ALM, codebeamer)
 - Programming languages: Groovy, Java, Bash
-- QA automation experience (Selenium, Spock, Geb, Junit)
-- Expirience in load testing (Jmeter/Blazemeter)
-- Experience with CI (TeamCity, Jenkins)
-- Experience with shell scripting
-- Experience in VCS (GitHub, Bitbucket)
+- QA automation (Selenium, Spock, Geb, Junit)
+- Load testing (Jmeter, Blazemeter)
+- CI/CD (TeamCity, Jenkins)
+- Shell scripting
+- Databases (MySQL, InfluxDB)
+- VCS (GitHub, Bitbucket)
 - Experience in leading small team
-
 
 ## Working Experience:
 ### Smart Academy
   Date: Arpil 2020 - nowadays
   
-  Tech stack: Jmeter, Blazemeter, Groovy, Bash, Ansible, Docker, Terraform
+  Tech stack: Jmeter, Blazemeter, Groovy, Bash, Ansible, Docker, Terraform, Jenkins pipelines, Grafana, InfluxDB
   
   Description: under NDA
   
