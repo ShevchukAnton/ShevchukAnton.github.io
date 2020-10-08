@@ -1,4 +1,4 @@
-## Skills and Knowledges:
+## Skills and Knowledge:
 - Intermediate level of spoken and written English
 - Good understanding of QA essentials and theory. Knowledge of issue-tracking systems (Youtrack, Jira, Helix ALM, codebeamer)
 - Programming languages: Groovy, Java, Bash
@@ -12,13 +12,13 @@
 
 ## Working Experience:
 ### Smart Academy
-  Date: Arpil 2020 - nowadays
+  Date: April 2020 - nowadays
   
   Tech stack: Jmeter, Blazemeter, Groovy, Bash, Ansible, Docker, Terraform, Jenkins pipelines, Grafana, InfluxDB
   
   Description: under NDA
   
-  Role: Develop, maintain, execute load tests. Setup and support environment. Analize test results and provide reliable feedback, report bugs
+  Role: Develop, maintain, execute load tests. Setup and support environment. Analyze test results and provide reliable feedback, report bugs
   
 ----
 
@@ -29,7 +29,7 @@
   
   Description: A medical system that collects user data from implants and helps the doctor to make a decision about the following cure
   
-  Role: Develop, support and create automation tests, maintenance of Nexus artefactory and local test environment. Report bugs
+  Role: Develop, support and create automation tests, maintenance of Nexus artifactory and local test environment. Report bugs
   
 ----
 
