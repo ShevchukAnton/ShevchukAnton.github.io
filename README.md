@@ -1,10 +1,11 @@
 ## Skills and Knowledge:
 - Intermediate level of spoken and written English
-- Good understanding of QA essentials and theory. Knowledge of issue-tracking systems (Youtrack, Jira, Helix ALM, codebeamer)
-- Programming languages: Groovy, Java, Bash
-- QA automation (Selenium, Spock, Geb, Junit)
-- Load testing (Jmeter, Blazemeter)
-- CI/CD (TeamCity, Jenkins)
+- Good understanding of QA essentials and theory. Knowledge of issue-tracking systems (Jira, Youtrack)
+- Programming languages: Groovy, Bash, Python (mostly simple scripting)
+- QA automation (Selenium, Spock, Geb)
+- Load testing (Jmeter, Blazemeter, Locust)
+- Basic knowledge of security/penetration testing
+- CI/CD (Jenkins, TeamCity)
 - Shell scripting
 - Databases (MySQL, InfluxDB)
 - VCS (GitHub, Bitbucket)
@@ -14,11 +15,11 @@
 ### Smart Academy
   Date: April 2020 - nowadays
   
-  Tech stack: Jmeter, Blazemeter, Groovy, Bash, Ansible, Docker, Terraform, Jenkins pipelines, Grafana, InfluxDB
+  Tech stack: Jmeter, Blazemeter, Groovy, Bash, Python, Ansible, Docker, Terraform, Jenkins pipelines, Grafana, InfluxDB
   
   Description: under NDA
   
-  Role: Develop, maintain, execute load tests. Setup and support environment. Analyze test results and provide reliable feedback, report bugs
+  Role: Develop, maintain, execute load and functional tests. Setup and support environment. Analyze test results and provide reliable feedback, report bugs
   
 ----
 
